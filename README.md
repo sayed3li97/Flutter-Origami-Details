@@ -6,7 +6,7 @@
      alt="GDG Manama Logo" /> </a>
 # Flutter Origami Details
 
-This source code is to be used as for refrence in "Building Flutter UI’s with 10 widgets only!" workshop in Bahrian. The purpose is to how you can create a beatuful Flutter UI using 10 widgets only. It is for beginners and I hope it will inspire you to do more.. 
+This source code is to be used for reference in "Building Flutter UI’s with 10 widgets only!" workshop in Bahrian. The purpose is to how you can create a beautiful Flutter UI using 10 widgets only. It is for beginners and I hope it will inspire you to do more..
 
 # Demo 
 <img height="350px" src="screenshots/screen.gif"
